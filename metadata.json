@@ -1,0 +1,6 @@
+{
+  "name": "ApexGlobal Multi-Service Enterprise Platform",
+  "description": "Unified enterprise platform combining Global Courier & Freight Tracking, Job Recruitment & Talent Placement, and Visa Application Assistance with automated billing, KYC, and multi-role operations.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
